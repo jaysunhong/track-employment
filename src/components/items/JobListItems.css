@@ -1,0 +1,23 @@
+.checkbox {
+    margin-left: 45% !important;
+}
+.checkbox-blue[type="checkbox"] + span:before {
+    border-bottom: 2px solid blue !important;
+    border-right: 2px solid blue !important;
+}
+.checkbox-teal[type="checkbox"] + span:before {
+    border-bottom: 2px solid #26a69a !important;
+    border-right: 2px solid #26a69a !important;
+}
+.checkbox-red[type="checkbox"] + span:before {
+    border-bottom: 2px solid red !important;
+    border-right: 2px solid red !important;
+}
+.checkbox-yellow[type="checkbox"] + span:before {
+    border-bottom: 2px solid yellow !important;
+    border-right: 2px solid yellow !important;
+}
+.checkbox-green[type="checkbox"] + span:before {
+    border-bottom: 2px solid #4CAF50 !important;
+    border-right: 2px solid #4CAF50 !important;
+}
